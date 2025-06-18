@@ -1,0 +1,24 @@
+ Inicio: 2025-06-17 18:15:38.224961
+Argumentos: ['c:/Users/mseil/OneDrive/Documentos/GitHub/proyecto/ble_logger.py']
+ Intentando conexión BLE...
+ Subida a GitHub OK
+ Subida a GitHub OK
+ Subida a GitHub OK
+Finalizado por el usuario
+Inicio: 2025-06-17 18:25:40.110754
+Inicio: 2025-06-17 18:27:50.694735
+Inicio: 2025-06-17 18:29:24.458000
+Inicio: 2025-06-17 19:18:00.201724
+Inicio: 2025-06-17 19:18:25.357141
+Inicio: 2025-06-17 20:21:39.881409
+Inicio: 2025-06-17 20:22:59.801466
+Inicio: 2025-06-17 20:23:01.292107
+Inicio: 2025-06-17 20:32:54.666386
+Inicio: 2025-06-18 02:03:58.633199
+Inicio: 2025-06-18 05:24:36.340856
+Inicio: 2025-06-18 05:25:01.275299
+Inicio: 2025-06-18 05:25:22.290552
+Inicio: 2025-06-18 05:25:28.101622
+Inicio: 2025-06-18 05:26:16.915000
+Inicio: 2025-06-18 05:26:23.785725
+Inicio: 2025-06-18 08:03:41.754569
